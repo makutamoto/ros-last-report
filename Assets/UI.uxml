@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI.uss?fileID=7433441132597879392&amp;guid=41e0eef8060f140988fe96c8d23525fc&amp;type=3#UI" />
+    <ui:Slider picking-mode="Ignore" label="Slider1" value="-0.007" high-value="0.007" name="Slider1" low-value="-0.007" />
+    <ui:Slider picking-mode="Ignore" label="Slider2" value="0.007" high-value="-0.007" name="Slider2" low-value="0.007" />
+    <ui:Slider picking-mode="Ignore" label="ArmRotate" value="42" high-value="-360" name="ArmRotate" />
+    <ui:Slider picking-mode="Ignore" label="Arm" value="0" high-value="90" name="Arm" />
+</ui:UXML>

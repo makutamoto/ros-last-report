@@ -1,0 +1,4 @@
+repository "ros-kadai3@makutamoto@cloud"
+  path "/"
+    br "/main"
+    co "/main"
